@@ -12,3 +12,4 @@ delete array[2];
 
 console.log(array);
 console.log(filtred);
+console.log('test')
